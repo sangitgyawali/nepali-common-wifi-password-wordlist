@@ -1,0 +1,1 @@
+# nepali-common-wifi-password-wordlist
